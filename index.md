@@ -3,16 +3,16 @@
 I am a trained full-stack developer interested in quality assurance and game development. In college, I started out as an aspiring computer science major. Technical writing and problem solving was rewarding, but my focus ended up switching to sociology as I found it combined more of my passions. Post-grad, I began my career working in a public defender office to bolster avenues that add a social work lens to criminal defense teams. In that role I worked a lot with our agency's website and was reminded of all the things I loved about computer science. I now want to move into the tech field in order to come up with creative solutions to social problems, to bring people joy, and to make the world more accessible for more of us.
 
 
-## Portfolio
+# Portfolio
 
-[![Podcast-Recommender-Thumbnail](./Podcast-Recommender-thumbnail.png)](https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer | width=50%)
+[<img src="./Podcast-Recommender-thumbnail.png" width="50%">](https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer)
 
-[<img src="./Sprite%5B0%5D-thumbnail.png" height="50%">](https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer)
-
-
+[<img src="./Sprite%5B0%5D-thumbnail.png" width="50%">](https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer)
 
 
-## Education
+
+
+# Education
 
 ### NewForce 
 
@@ -25,19 +25,13 @@ June 2022 - January 2023
 B.A., Major in Sociology, Class of 2020
 
 
-## Courses
+# Courses
 
-<dl>
-  <dt>Introduction to Software Testing</dt>
-  <dt>University of Minnesota - Coursera</dt>
-  <dt> January 2023 - Present</dt>
-</dl>
+Introduction to Software Testing<br>
+University of Minnesota - Coursera<br>
+January 2023 - Present<br>
 
-<dl>
-  <dt>test</dt>
-  <dt>test</dt>
-  <dt>test</dt>
-</dl>
+
 
 
 
