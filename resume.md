@@ -1,5 +1,4 @@
-# Junior Full Stack Developer
-## NewForce
+## NewForce - Junior Full Stack Developer
 Remote / Charleston, WV
 
 June 2022 - January 2023
@@ -16,8 +15,7 @@ June 2022 - January 2023
 * Built and maintained unit tests in a .NET Web API
 
 
-# Public Defense Resource Specialist
-## Public Defender Services
+## Public Defender Services - Public Defense Resource Specialist
 Charleston, WV
 
 October 2020 - Present
@@ -29,8 +27,7 @@ October 2020 - Present
 * Assisted in training social workers from around the state in mitigation, promoted the use of social workers among attorneys, maintained a job board on our website, supported hired social workers, and analyzed program outcomes using Microsoft Excel and Google Sheets.
 
 
-# IITS ProDesk Student Worker
-## Haverford College
+## Haverford College - # IITS ProDesk Student Worker
 Haverford, PA
 
 Fall 2016 - Fall 2019
