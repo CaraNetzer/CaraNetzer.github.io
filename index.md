@@ -53,17 +53,17 @@ B.A., Major in Sociology
   <tr>
     <td>
       <div style="font-weight: bold; text-align:center;">Intro to Computer Science</div>
-      <div style="text-align:center;">Haverford College - CMSC105<br>Fall 2016</div>
+      <div style="text-align:center;">Haverford College - CMSC-H105<br>Fall 2016</div>
     </td>
     <td>
       <div style="font-weight: bold; text-align:center;">Intro to Data Structures</div>
-      <div style="text-align:center;">Bryn Mawr College - CMSC206<br>Spring 2017</div>
+      <div style="text-align:center;">Bryn Mawr College - CMSC-B206<br>Spring 2017</div>
     </td>
   </tr>
   <tr>
     <td>
       <div style="font-weight: bold; text-align:center;">Discrete Mathematics I</div>
-      <div style="text-align:center;">Bryn Mawr College - CMSC231<br>Spring 2017</div>
+      <div style="text-align:center;">Bryn Mawr College - CMSC-B231<br>Spring 2017</div>
     </td>
     <td></td>
   </tr>
