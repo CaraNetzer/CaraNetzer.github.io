@@ -65,6 +65,7 @@ B.A., Major in Sociology
       <div style="font-weight: bold; text-align:center;">Discrete Mathematics I</div>
       <div style="text-align:center;">Bryn Mawr College - CMSC231<br>Spring 2017</div>
     </td>
+    <td></td>
   </tr>
 </table>
 
