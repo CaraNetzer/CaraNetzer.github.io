@@ -4,5 +4,13 @@
 @import "{{ site.theme }}";
 
 .portfolio-table {
-  border: none; 
+  border: none!important; 
+}
+
+.project {
+  transition: transform .2s;
+}
+
+.project:hover {
+  transform: scale(1.2);
 }

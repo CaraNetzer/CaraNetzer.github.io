@@ -11,8 +11,8 @@ I am a trained full-stack developer interested in quality assurance and game dev
 
   <table class="portfolio-table">
     <tr>
-      <td><div style="font-weight:bold; text-align:center;">Podcast Recommender - August 2022<br><br><a href="https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer"><img style="width:400px;" src="./Podcast-Recommender-thumbnail.png" alt="podcast recomender project thumbnail" ></a></div></td>
-      <td><div style="font-weight:bold; text-align:center;">Sprite[0] - December 2022<br><br><a href="https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer"><img style="width:400px;" src="./Sprite%5B0%5D-thumbnail.png" alt="sprite[0] project thumbnail" ></a></div></td>
+      <td class="project"><div style="font-weight:bold; text-align:center;">Podcast Recommender - August 2022<br><br><a href="https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer"><img style="width:400px;" src="./Podcast-Recommender-thumbnail.png" alt="podcast recomender project thumbnail" ></a></div></td>
+      <td class="project"><div style="font-weight:bold; text-align:center;">Sprite[0] - December 2022<br><br><a href="https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer"><img style="width:400px;" src="./Sprite%5B0%5D-thumbnail.png" alt="sprite[0] project thumbnail" ></a></div></td>
     </tr>
   </table>
 
@@ -33,31 +33,31 @@ B.A., Major in Sociology
 
 # Courses
 
-  <table>
-    <tr>
-      <td>
-        <div style="font-weight: bold; text-align:center;">Introduction to Software Testing</div>
-        <div style="text-align:center;">University of Minnesota - Coursera<br>January 2023 - Present</div>
-      </td>
-      <td>
-        <div style="font-weight: bold; text-align:center;">CS50's Introduction to Game Development</div>
-        <div style="text-align:center;">HarvardX - CS50G<br>October 2023 - Present</div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="font-weight: bold; text-align:center;">Intro to Computer Science</div>
-        <div style="text-align:center;">Haverford College - CMSC105<br>Fall 2016</div>
-      </td>
-      <td>
-        <div style="font-weight: bold; text-align:center;">Intro to Data Structures</div>
-        <div style="text-align:center;">Bryn Mawr College - CMSC206<br>Spring 2017</div>
-      </td>
-    <tr>
-      <td>
-        <div style="font-weight: bold; text-align:center;">Discrete Mathematics I</div>
-        <div style="text-align:center;">Bryn Mawr College - CMSC231<br>Spring 2017</div>
-      </td>
-      <td></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <div style="font-weight: bold; text-align:center;">Introduction to Software Testing</div>
+      <div style="text-align:center;">University of Minnesota - Coursera<br>January 2023 - Present</div>
+    </td>
+    <td>
+      <div style="font-weight: bold; text-align:center;">CS50's Introduction to Game Development</div>
+      <div style="text-align:center;">HarvardX - CS50G<br>October 2023 - Present</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="font-weight: bold; text-align:center;">Intro to Computer Science</div>
+      <div style="text-align:center;">Haverford College - CMSC105<br>Fall 2016</div>
+    </td>
+    <td>
+      <div style="font-weight: bold; text-align:center;">Intro to Data Structures</div>
+      <div style="text-align:center;">Bryn Mawr College - CMSC206<br>Spring 2017</div>
+    </td>
+  <tr>
+    <td>
+      <div style="font-weight: bold; text-align:center;">Discrete Mathematics I</div>
+      <div style="text-align:center;">Bryn Mawr College - CMSC231<br>Spring 2017</div>
+    </td>
+    <td></td>
+  </tr>
+</table>
