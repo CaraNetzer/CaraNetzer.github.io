@@ -27,7 +27,7 @@ October 2020 - Present
 * Assisted in training social workers from around the state in mitigation, promoted the use of social workers among attorneys, maintained a job board on our website, supported hired social workers, and analyzed program outcomes using Microsoft Excel and Google Sheets.
 
 
-## Haverford College - # IITS ProDesk Student Worker
+## Haverford College - IITS ProDesk Student Worker
 Haverford, PA
 
 Fall 2016 - Fall 2019
