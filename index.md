@@ -10,13 +10,15 @@ I am a trained full-stack developer interested in quality assurance and game dev
 [<img src="./Sprite%5B0%5D-thumbnail.png" width="50%">](https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer) -->
 
 <div class="portfolio">
-    <div class="project">
+  <div class="project">
       <div style="font-weight:bold; text-align:center;">Podcast Recommender - August 2022<br><br>
         <a href="https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer"><img style="width:400px;" src="./Podcast-Recommender-thumbnail.png" alt="podcast recomender project thumbnail" ></a>
       </div>
+    </div>
     <div class="project">
       <div style="font-weight:bold; text-align:center;">Sprite[0] - December 2022<br><br>
-      <a href="https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer"><img style="width:400px;" src="./Sprite%5B0%5D-thumbnail.png" alt="sprite[0] project thumbnail" ></a>
+        <a href="https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer"><img style="width:400px;" src="./Sprite%5B0%5D-thumbnail.png" alt="sprite[0] project thumbnail" ></a>
+      </div>
     </div>
 </div>
 
@@ -57,6 +59,7 @@ B.A., Major in Sociology
       <div style="font-weight: bold; text-align:center;">Intro to Data Structures</div>
       <div style="text-align:center;">Bryn Mawr College - CMSC206<br>Spring 2017</div>
     </td>
+  </tr>
   <tr>
     <td>
       <div style="font-weight: bold; text-align:center;">Discrete Mathematics I</div>
@@ -64,3 +67,26 @@ B.A., Major in Sociology
     </td>
   </tr>
 </table>
+
+<!-- <div class="courses-table">
+  <table>
+    <tr>
+      <td><div class="class-title">Introduction to Software Testing</div>
+      </td>
+      <td><div class="class-title"></div>
+      </td>
+    </tr>
+    <tr>
+      <td><div class="class-title"></div>
+      </td>
+      <td><div class="class-title"></div>
+      </td>
+    </tr>
+    <tr>
+      <td><div class="class-title"></div>
+      </td>
+      <td>
+      </td>
+    </tr>
+  </table>
+</div> -->
