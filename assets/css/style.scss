@@ -3,8 +3,9 @@
 
 @import "{{ site.theme }}";
 
-.portfolio-table {
-  border: none!important; 
+.portfolio {
+  display: flex; 
+  flex-direction: row;
 }
 
 .project {
@@ -12,5 +13,5 @@
 }
 
 .project:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
