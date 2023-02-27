@@ -43,7 +43,7 @@ B.A., Major in Sociology
   <tr>
     <td>
       <div style="font-weight: bold; text-align:center;">Introduction to Software Testing</div>
-      <div style="text-align:center;">University of Minnesota - Coursera<br>January 2023 - Present</div>
+      <div style="text-align:center;">University of Minnesota - Coursera<br>January 2023 - February 2023</div>
     </td>
     <td>
       <div style="font-weight: bold; text-align:center;">CS50's Introduction to Game Development</div>
