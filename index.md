@@ -11,13 +11,18 @@ I am a trained full-stack developer interested in quality assurance and game dev
 
 <div class="portfolio">
   <div class="project">
-      <div style="font-weight:bold; text-align:center;">Podcast Recommender - August 2022<br><br>
-        <a href="https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer"><img style="width:400px;" src="./Podcast-Recommender-thumbnail.png" alt="podcast recomender project thumbnail" ></a>
+      <div style="font-weight:bold; text-align:center;">30 Second Farm - February 2023<br><br>
+        <a href="https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer)"><img style="width:400px;" src="./30-Second-Farm-thumbnail.png" alt="30 Second Farm project thumbnail" ></a>
       </div>
     </div>
-    <div class="project">
+  <div class="project">
       <div style="font-weight:bold; text-align:center;">Sprite[0] - December 2022<br><br>
         <a href="https://www.youtube.com/watch?v=fN48v7ZmaWk&ab_channel=CaraNetzer"><img style="width:400px;" src="./Sprite%5B0%5D-thumbnail.png" alt="sprite[0] project thumbnail" ></a>
+      </div>
+    </div>
+  <div class="project">
+      <div style="font-weight:bold; text-align:center;">Podcast Recommender - August 2022<br><br>
+        <a href="https://www.youtube.com/watch?v=1zLuU1YBDWY&ab_channel=CaraNetzer"><img style="width:400px;" src="./Podcast-Recommender-thumbnail.png" alt="podcast recomender project thumbnail" ></a>
       </div>
     </div>
 </div>
