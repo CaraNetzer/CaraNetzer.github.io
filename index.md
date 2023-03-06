@@ -52,7 +52,7 @@ B.A., Major in Sociology
     </td>
     <td>
       <div style="font-weight: bold; text-align:center;">CS50's Introduction to Game Development</div>
-      <div style="text-align:center;">HarvardX - CS50G<br>October 2023 - Present</div>
+      <div style="text-align:center;">HarvardX - CS50G<br>October 2023 - March 2023</div>
     </td>
   </tr>
   <tr>
